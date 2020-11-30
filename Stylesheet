@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+    <div id="forum">
+        <div class="login">login Form</div>
+        <div class="email"><input type="email" placeholder="Email" required></div>
+        <div class="password"><input  type="password" placeholder="Password" required></div>
+        <button onclick="login()">LOGIN</button>
+        <footer>© Created by <i>EAGLE EYE</i></footer>
+    </div>
+        
+    </body>
+</html>
